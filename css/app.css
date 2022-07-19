@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.restart{
+  display: none;
+}
+
+.viki{
+  display: none ;
+  color:blueviolet;
+  font-size: xx-large;
+}
+
+.gameOver{
+  display: none ;
+}
+
